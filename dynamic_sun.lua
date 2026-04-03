@@ -1,5 +1,5 @@
 --- Dynamic Sun Bigass V3 Script ---
----	Originally by Altis94 ---
+--- Originally by Altis94 ---
 --- Updated by Java ---
 
 api_version = "1.12.0.0"
